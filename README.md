@@ -1,8 +1,8 @@
 # Hi there 👋
 ### Welcome to Js Na's GitHub  
 My Links:  
-> [https://HelloJsNa.github.io](https://hellojsna.github.io)   
-> [https://tistory.jsna.kro.kr](https://tistory.jsna.kro.kr)  
+> [Homepage](https://jsna.dev)   
+> [YouTube](https://youtube.com/JsNaMetro)
 
 <!--
 **hellojsna/hellojsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
